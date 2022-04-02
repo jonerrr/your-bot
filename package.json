@@ -1,0 +1,16 @@
+{
+  "name": "your-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
+  "keywords": [],
+  "author": "jonah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0"
+  }
+}
